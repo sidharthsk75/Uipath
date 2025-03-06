@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fVUjQjJwz0CwHRvOY7pDjQ" Reference="pDSmR74D8kyvGeSOd9kOvA/B0bXKQzuxUGu5HigAXTmGg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="34542835-1ba8-4247-b2ed-6300bb3d7dc0" CvElementArea="632, 837, 180, 61" CvTextArea="677, 857, 87, 21" CvTextArgument="SUBMIT" CvType="Button" DesignTimeRectangle="634, 709, 175, 55" DesignTimeScaleFactor="1.5" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Rpa Challenge' role='document' /&gt;&lt;ctrl name='Submit' role='push button' /&gt;" FuzzyAccuracy="0.78" FuzzySelectorArgument="&lt;ctrl name='Rpa Challenge' role='document' /&gt;&lt;ctrl name='Submit' role='push button' automationid='' check:text='SUBMIT' /&gt;" Guid="10d21cc6-64ad-49ea-8c2c-17691cbee56e" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Rpa Challenge - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, CV" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="34542835-1ba8-4247-b2ed-6300bb3d7dc0" CvElementArea="24, 959, 447, 60" CvType="Button" DesignTimeRectangle="27, 830, 441, 55" ElementType="Text" FullSelectorArgument="&lt;ctrl name='Rpa Challenge' role='document' /&gt;&lt;ctrl name='DOWNLOAD EXCEL cloud_download' role='link' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Rpa Challenge' role='document' /&gt;&lt;ctrl name='DOWNLOAD EXCEL cloud_download' role='link' automationid='' check:text='DOWNLOAD EXCEL' /&gt;" Guid="9be940ed-2cd6-41be-9c45-475712ce8f1e" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ff0a92b727e711225ca7fe6ae0b7f570.png" xmlns="">0TS-GDnGqFUOo91bnk5DfBQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
